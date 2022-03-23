@@ -1,0 +1,79 @@
+body{
+  font-family: sans-serif;
+  background: url(img/bglogin.jpg);
+  background-size: cover;
+}
+
+h1{
+  text-align: center;
+  /*ketebalan font*/
+  font-weight: 300;
+  font-color: white ;
+}
+
+.tulisan_login{
+  text-align: center;
+  color: black;
+  /*membuat semua huruf menjadi kapital*/
+  text-transform: uppercase;
+}
+
+.kotak_login{
+  width: 270px;
+background-color: white;
+  margin: 80px auto;
+  padding: 40px 20px;
+  border-radius: 20px;
+  box-shadow: darkblue;  }
+
+label{
+  font-size: 11pt;
+  color: white;
+}
+
+.form_login{
+  /*membuat lebar form penuh*/
+  box-sizing : border-box;
+  width: 100%;
+  padding: 10px;
+  font-size: 11pt;
+  margin-bottom: 20px;
+}
+
+.tombol_login{
+  background-color: darkslateblue;
+  color: white;
+ font-size: 11pt;
+  width: 100%;
+  border: none;
+  border-radius: 3px;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+.tombol_login:hover{
+  background-color: ;
+} 
+
+.link{
+  color: blue;
+  font-color:white ;
+  text-decoration: none;
+  font-size: 10pt;
+}
+
+.alert{
+  background: red;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border:1px solid #b32929;
+}
+.alert2{
+  background: lightgreen;
+  padding: 10px;
+    color: darkgreen;
+
+  text-align: center;
+  border:1px solid green;
+}
+

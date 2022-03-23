@@ -1,0 +1,18 @@
+
+
+.blockquote-custom {
+  position: relative;
+  font-size: 1.1rem;
+}
+
+
+
+
+
+body {
+  background: #eff0eb;
+  background-image: url('img/bgquotes.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+

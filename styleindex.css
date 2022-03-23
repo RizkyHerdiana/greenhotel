@@ -1,0 +1,8 @@
+.banner{
+background: url(img/gambar2.jpg);
+background-size: cover;
+no-repeat center center;
+padding-top: 20%;
+padding-bottom: 20%;
+color: white;
+}
