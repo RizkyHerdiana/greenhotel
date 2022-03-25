@@ -1,2 +1,2 @@
 link hosting
-https://green-hotel.000webhostapp.com/index.php
+http://greenhotel.epizy.com/index.php
